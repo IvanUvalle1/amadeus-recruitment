@@ -1,4 +1,8 @@
-
+<!-- // Nombre -- Ivan de Jesus Uvalle Aguayo
+Pues durante la prueba he sentido que algunas instrucciones no estuvieron claras para instalar el sistema
+Algunos problemas que quiero destacar en el paso 4 primero se realiza composer install antes de php artisan key:generate,
+el correo para acceder ya no es amadeus@amadeus.com es admin@amadeusmagister.com y se deberia comentar que se tiene que hacer la configuracion incial
+-->
 <script setup>
 import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout.vue';
 import { Head } from '@inertiajs/vue3';
